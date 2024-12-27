@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "938246746448",
+    "project_id": "appdev-finalexam-app",
+    "storage_bucket": "appdev-finalexam-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938246746448:android:f779b0cb09fb2e5a62bc55",
+        "android_client_info": {
+          "package_name": "com.example.finalexam_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDynScDb6cRLtQeDkiwTDnvge7PZMATvbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
