@@ -2,7 +2,7 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'blocs/sample_bloc.dart';
+import 'blocs/juice_bloc.dart';
 import 'firebase_options.dart';  
 import 'screens/home_screen.dart';
 
@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return BlocProvider(
-      create: (context) => MyBloc(),
+      create: (context) => JuiceBloc(),
       child: MaterialApp(
         title: 'Final Exam App',
         debugShowCheckedModeBanner: false,
